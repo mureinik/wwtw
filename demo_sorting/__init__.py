@@ -6,11 +6,11 @@ def qdsort(lst: List[int]):
     Nite Owl's implementation: Quicksort
     """
     n = len(lst)
-    if n <= 1:
+    if n <= 1: # Currently no way to exclude specific mutation :-(
         return lst
 
     # Find the pivot element
-    pivot = lst[n // 2]
+    pivot = lst[n // 2] # pragma: no mutate
 
     # Partition the list into three parts
     left = [x for x in lst if x < pivot]
