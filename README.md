@@ -1,2 +1,2 @@
 # Who Watches the Watchmen?
-Code examples for Allon Mureinik's talk "Who Watches the Watchmen?" at SciFiDevCon 2025.
+Code examples for Allon Mureinik's talk [Who Watches the Watchmen?](https://www.scifidevcon.com/courses/2025-scifidevcon/contents/680efa43ae4f5) at [SciFiDevCon 2025](https://www.scifidevcon.com/courses/2025-scifidevcon).
